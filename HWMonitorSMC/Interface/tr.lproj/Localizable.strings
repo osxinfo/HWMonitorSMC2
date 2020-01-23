@@ -120,13 +120,13 @@
 "log copied to clip board!" = "günlük panoya kopyalandı!";
 
 // Themes
-"Default" = "Default"; // View Size as well
-"Classic" = "Classic";
-"Dashed Horizontally" = "Dashed Horizontally";
+"Default" = "Varsayılan"; // View Size as well
+"Classic" = "Klasik";
+"Dashed Horizontally" = "Yatay Kesikli";
 "No Grid" = "No Grid";
-"With Grid, clear background" = "With Grid, clear background";
+"With Grid, clear background" = "Izgara kullan, arka planı temizle";
 
 // View Size
-"Medium" = "Medium";
-"Large"  = "Large";
+"Medium" = "Orta";
+"Large"  = "Büyük";
 
